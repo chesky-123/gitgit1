@@ -1,1 +1,2 @@
-ihugyffxd
+x=ihugyffxd
+print(x)
